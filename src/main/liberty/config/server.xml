@@ -6,6 +6,7 @@
         <feature>servlet-6.0</feature>
         <feature>transportSecurity-1.0</feature>
         <feature>monitor-1.0</feature>
+        <feature>microprofile-6.1</feature>
     </featureManager>
 <!--
     <keyStore id="defaultKeyStore" password="badapp" />
